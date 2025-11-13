@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Samuel04010/Samuel04010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   Olá, eu sou Samuel Levi!
 
-Here are some ideas to get you started:
+  Desenvolvedor | Estudante
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Bem-vindo(a) ao meu perfil!
+
+O que estou fazendo agora:
+   Estou atualmente trabalhando em aprimorar meus conhecimentos em Front-end.
+
+Estou atualmente aprendendo:
+     Apredendo atualmente HTML, CSS e JAVASCRIPT com Back-end com PHP e BANCO DE DADOS MYSQL 
+
+ Estou procurando colaborar em:
+    No desenvolvimento web como Full-stack, em criação com aplicativos e sites funcionais.
+
+Estou procurando ajuda com:
+    Me organizar melhor para meus estudos.
+
